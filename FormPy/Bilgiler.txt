@@ -1,0 +1,1 @@
+Uygulamada kodlama sistemi harfleri Binary sisteme göre 1 ileri atıyor ve bu şekilde Mesaj Şifreleniyor
